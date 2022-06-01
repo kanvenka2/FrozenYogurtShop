@@ -2,7 +2,7 @@ node {
    
     stage('Preparation') { 
        
-        git 'https://github.com/Jaibw/FrozenYogurtShop.git'
+        git 'https://github.com/deepthi/FrozenYogurtShop.git'
        
     }
     
